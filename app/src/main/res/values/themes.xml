@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Json_ind_v9_pr_31_trifonov" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Json_ind_v9_pr_31_trifonov" parent="Base.Theme.Json_ind_v9_pr_31_trifonov" />
+</resources>

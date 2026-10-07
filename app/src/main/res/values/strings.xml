@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">json_ind_v9_pr_31_trifonov</string>
+
+    <string name="hello">Добро пожаловать в Плей-лист!</string>
+    <string name="log">Введите логин</string>
+    <string name="pass">Введите пароль</string>
+    <string name="vhod">Войти</string>
+    <string name="reg">Зарегистрироваться</string>
+</resources>
